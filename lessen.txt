@@ -1,0 +1,9 @@
+TH2hELM:HC Elektromagnetisme
+TH34hANE:Analog Electronics lect
+TH2wERW:Engineering for the real world workshop
+TH34hEO:Electronic design lect
+TH2oELM:Oef Elektromagnetisme
+TH34hMIC:Microprocessors
+TH2hTHE:Hc Thermodynamica
+TH2oTHE:Oef Thermodynamica
+TH34pANE:Analog Electronics lab
